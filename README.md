@@ -20,5 +20,6 @@ The fist place where you should look for guidance is the CfP of the conference/m
 ## You proposal
 If you have a proposal already and is not really sure about it, or would like some revision but don't know how?  
 Leave a link (GDocs or GitHub) under this section and we will try and find some awesome mentors to revise them and work on some feedback for you.
+* [Insert your proposal document here]
 
 "May the force be with you, pythonista."
